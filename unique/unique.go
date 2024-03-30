@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-func main3() {
+func main() {
 	// 1. 1 dan 50 gacha bo'lgan tasodifiy sonni yarating (ishora: rand.Intn(max-min+1) + min)
 	randNum := rand.Intn(49) + 1
 

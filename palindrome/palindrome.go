@@ -67,7 +67,7 @@ https://leetcode.com/problems/valid-palindrome/solutions/4945002/homewor-bootcam
 
 */
 
-func main2() {
+func main() {
 	var s string
 	fmt.Print("Enter the string : ")
 	fmt.Scan(&s)
